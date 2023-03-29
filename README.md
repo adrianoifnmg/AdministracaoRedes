@@ -1,4 +1,4 @@
-# Administração de Serviços de Redes de Computadores / BSI / IFNMG Januária
+# Administração de Redes de Computadores / BSI / IFNMG Januária
  
 > **Objetivo Geral:** Aplicar o conhecimento teórico adquirido na disciplina de Redes de Computadores na implantação, configuração e manutenção de redes de computadores, servidores e demais serviços básicos para administração da rede.
 
