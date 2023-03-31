@@ -1,8 +1,10 @@
 # <img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/computer.png" width="80"> __Administração de Serviços de Redes de Computadores
 
-[![image](https://img.shields.io/badge/WhatsApp_da_Disciplina-2e7041?style=for-the-badge&logo=whatsapp&logoColor=white
+[![image](https://img.shields.io/badge/Arquivos-155b29?style=for-the-badge&logo=PowerShell&logoColor=white
+)](https://github.com/adrianoifnmg/AdministracaoRedes/tree/main/public)
+[![image](https://img.shields.io/badge/WhatsApp-4053D6?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://chat.whatsapp.com/EKYsG5YL9B37l3eaj1fpx9)
-[![image](https://img.shields.io/badge/Links_Úteis-4053D6?style=for-the-badge&logo=amp&logoColor=white
+[![image](https://img.shields.io/badge/Links_Úteis-d88200?style=for-the-badge&logo=SitePoint&logoColor=white
 )](#link-links-úteis)
 
 > **Objetivo Geral:** Aplicar o conhecimento teórico adquirido na disciplina de Redes de Computadores na implantação, configuração e manutenção de redes de computadores, servidores e demais serviços básicos para administração da rede.
@@ -34,3 +36,6 @@
 * PETERSON, Larry L; DAVIE, Bruce S. **Redes de Computadores: Uma Abordagem de Sistemas**.
 
 ## :link: Links Úteis
+
+* [Linux Mint](https://linuxmint.com/)
+* [Kathará](https://www.kathara.org/)
