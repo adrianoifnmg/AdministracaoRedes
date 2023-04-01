@@ -15,13 +15,22 @@
 * Instalação e Configuração de Redes TCP/IP
 * Configuração Básica de Switches e Roteadores
 * Administração de Redes e Serviços Básicos
-* Auto-Configuração de rede com DHCP server
+* Auto-Configuração / DHCP server
+* Roteamento Estático e Dinâmico
 * Ferramentas para Acesso Remoto
 * Serviços básicos para Transferência de Arquivos
 * Configuração de Domínios com DNS
 * Noções Básicas de Segurança: Firewall, Proxy e VPNs
 * Configuração de Plataforma WEB (LAMP)
 * Noções de Gerenciamento de Redes de Computadores
+
+## :computer: Ambiente
+
+[<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/mint.png" height="45">](https://linuxmint.com/)
+[<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/docker.png" height="50">](https://www.docker.com/)
+[<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/kathara.ico" height="45">](https://www.kathara.org/)
+[<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/packettracer.png" height="37">](https://www.netacad.com/courses/packet-tracer)
+[<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/virtualbox.png" height="40">](https://www.virtualbox.org/)
 
 ## :memo: Avaliação
 
