@@ -31,6 +31,7 @@
 [<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/kathara.ico" height="45">](https://www.kathara.org/)
 [<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/packettracer.png" height="37">](https://www.netacad.com/courses/packet-tracer)
 [<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/virtualbox.png" height="40">](https://www.virtualbox.org/)
+[<img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/wireshark.png" height="35">](https://www.wireshark.org/)
 
 ## :memo: Avaliação
 
