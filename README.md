@@ -51,3 +51,4 @@
 
 * [Linux Mint](https://linuxmint.com/)
 * [Kathará](https://www.kathara.org/)
+* [Gnu Linux Brasil](http://www.gnulinuxbrasil.com.br/)
