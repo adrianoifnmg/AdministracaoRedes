@@ -1,9 +1,12 @@
 # <img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/computer.png" width="60"> Administração de Serviços de Redes 
 
-[![image](https://img.shields.io/badge/Arquivos-4053D6?style=for-the-badge&logo=PowerShell&logoColor=white
+[![image](https://img.shields.io/badge/Arquivos-282358?style=for-the-badge&logo=PowerShell&logoColor=white
 )](https://github.com/adrianoifnmg/AdministracaoRedes/tree/main/public)
 [![image](https://img.shields.io/badge/WhatsApp-155b29?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://chat.whatsapp.com/EKYsG5YL9B37l3eaj1fpx9)
+[![image](https://img.shields.io/badge/Calendário-3b71c6?style=for-the-badge&logo=GoogleCalendar&logoColor=white
+)](https://calendar.google.com/calendar/u/0?cid=c2toNzdhaWlhZWdmZXBlMWViaG8zM2luN2dAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
+)
 [![image](https://img.shields.io/badge/Links_Úteis-d88200?style=for-the-badge&logo=SitePoint&logoColor=white
 )](#link-links-úteis)
 
