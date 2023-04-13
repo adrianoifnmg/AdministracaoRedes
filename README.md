@@ -5,7 +5,7 @@
 [![image](https://img.shields.io/badge/WhatsApp-155b29?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://chat.whatsapp.com/EKYsG5YL9B37l3eaj1fpx9)
 [![image](https://img.shields.io/badge/Calendário-3b71c6?style=for-the-badge&logo=GoogleCalendar&logoColor=white
-)](https://calendar.google.com/calendar/embed?src=skh77aiiaegfepe1ebho33in7g%40group.calendar.google.com&ctz=America%2FSao_Paulo) [![image](https://img.shields.io/badge/Links_Úteis-d88200?style=for-the-badge&logo=SitePoint&logoColor=white
+)](https://calendar.google.com/calendar/embed?src=skh77aiiaegfepe1ebho33in7g@group.calendar.google.com&src=hhtmsj9epvmqsdpn27sfolp688@group.calendar.google.com&ctz=America%2FSao_Paulo) [![image](https://img.shields.io/badge/Links_Úteis-d88200?style=for-the-badge&logo=SitePoint&logoColor=white
 )](#link-links-úteis)
 
 > **Objetivo Geral:** Aplicar o conhecimento teórico adquirido na disciplina de Redes de Computadores na implantação, configuração e manutenção de redes de computadores, servidores e demais serviços básicos para administração da rede.
