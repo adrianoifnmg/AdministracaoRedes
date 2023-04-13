@@ -1,4 +1,4 @@
-# <img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/computer.png" width="60"> 🇦 🇩 🇲 🇮 🇳 .  🇷 🇪 🇩 🇪 🇸  
+# <img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/computer.png" width="60"> Administração de Serviços de Redes de Computadores  
 
 [![image](https://img.shields.io/badge/Arquivos-4053D6?style=for-the-badge&logo=PowerShell&logoColor=white
 )](https://github.com/adrianoifnmg/AdministracaoRedes/tree/main/public)
