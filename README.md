@@ -25,7 +25,7 @@
 * Configuração de Domínios com DNS
 * Noções Básicas de Segurança: Firewall, Proxy e VPNs
 * Configuração de Plataforma WEB (LAMP)
-* Noções de Gerenciamento de Redes de Computadores
+* Cloud Computing
 
 ## :computer: Ambiente
 
