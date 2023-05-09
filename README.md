@@ -48,6 +48,7 @@
 * [Linux Mint](https://linuxmint.com/)
 * [Kathará](https://www.kathara.org/)
 * [IP Info](https://ipinfo.io/)
+* [Tcpdump Tutorial with Examples](https://danielmiessler.com/study/tcpdump/)
 * [Gnu Linux Brasil](http://www.gnulinuxbrasil.com.br/)
 
 ## [![vader](https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/vader2.gif)](#)
