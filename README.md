@@ -45,6 +45,7 @@
 
 ## :link: Links Úteis
 
+* [AWS Academy](https://www.awsacademy.com/vforcesite/LMS_Login) 
 * [Linux Mint](https://linuxmint.com/)
 * [Kathará](https://www.kathara.org/)
 * [IP Info](https://ipinfo.io/)
