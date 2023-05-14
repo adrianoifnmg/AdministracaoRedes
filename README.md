@@ -49,6 +49,7 @@
 * [Linux Mint](https://linuxmint.com/)
 * [Kathará](https://www.kathara.org/)
 * [IP Info](https://ipinfo.io/)
+* [Teste IPv6](http://test-ipv6.com/) 
 * [Tcpdump Tutorial with Examples](https://danielmiessler.com/study/tcpdump/)
 * [Gnu Linux Brasil](http://www.gnulinuxbrasil.com.br/)
 
