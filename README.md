@@ -50,6 +50,7 @@
 * [Kathará](https://www.kathara.org/)
 * [IP Info](https://ipinfo.io/)
 * [Teste IPv6](http://test-ipv6.com/) 
+* [Livro IPv6] (https://www.ipv6.br/pagina/downloads/)
 * [Tcpdump Tutorial with Examples](https://danielmiessler.com/study/tcpdump/)
 * [Gnu Linux Brasil](http://www.gnulinuxbrasil.com.br/)
 
