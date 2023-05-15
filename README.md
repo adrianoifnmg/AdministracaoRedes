@@ -48,6 +48,7 @@
 * [AWS Academy](https://www.awsacademy.com/vforcesite/LMS_Login) 
 * [Linux Mint](https://linuxmint.com/)
 * [Kathará](https://www.kathara.org/)
+* [Network Academy](https://www.networkacademy.io/)
 * [IP Info](https://ipinfo.io/)
 * [Teste IPv6](http://test-ipv6.com/) 
 * [Livro IPv6](https://www.ipv6.br/pagina/downloads/)
