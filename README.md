@@ -17,6 +17,7 @@
 ## :dart: Ementa
 * Instalação e Configuração de Redes TCP/IP
 * Configuração Básica de Switches e Roteadores
+* Configuração de Redes IPv6
 * Administração de Redes e Serviços Básicos
 * Auto-Configuração / DHCP server
 * Roteamento Estático e Dinâmico
