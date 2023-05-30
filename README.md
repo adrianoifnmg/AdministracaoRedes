@@ -10,7 +10,7 @@
 
 > **Objetivo Geral:** Aplicar o conhecimento teórico adquirido na disciplina de Redes de Computadores na implantação, configuração e manutenção de redes de computadores, servidores e demais serviços básicos para administração da rede.
 
-> **Objetivos Específicos:** Capacitar o discente para realizar a instalação, configuração e gerenciamento de equipamentos de rede, tais como: máquinas clientes, switches, roteadores e servidores de rede; Configurar servidores e serviços básicos utilizados nas Redes de Computadores e Internet; Conhecer e aplicar técnicas para manutenção da segurança da rede.
+> **Objetivos Específicos:** Capacitar o discente para realizar a instalação, configuração e gerenciamento de equipamentos de rede, tais como: máquinas clientes, switches, roteadores e servidores de rede; Configurar servidores e serviços básicos utilizados nas Redes de Computadores e Internet; Conhecer e aplicar técnicas para alta disponibilidade de serviços e manutenção da segurança da rede.
 
 <p align="center"><a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/cloud1.png"></a></p>
 
