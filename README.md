@@ -20,9 +20,10 @@
 * Auto-Configuração / DHCP server
 * Configuração de Redes IPv6
 * Roteamento Estático e Dinâmico
+* Alta Disponibilidade
 * Ferramentas para Acesso Remoto
-* Serviços básicos para Transferência de Arquivos
-* Configuração de Domínios com DNS
+* Serviços para Transferência de Arquivos
+* Configuração de Domínios - DNS
 * Noções Básicas de Segurança: Firewall, Proxy e VPNs
 * Configuração de Plataforma WEB (LAMP)
 * Cloud Computing e Virtualização
