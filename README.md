@@ -54,6 +54,8 @@
 * [Teste IPv6](http://test-ipv6.com/) 
 * [Livro IPv6](https://www.ipv6.br/pagina/downloads/)
 * [Tcpdump Tutorial with Examples](https://danielmiessler.com/study/tcpdump/)
+* [No-IP DDNS Client Configuration](https://www.noip.com/support/knowledgebase/installing-the-linux-dynamic-update-client-on-ubuntu)
+* [Let's Encrypt SSL on Debian 12](https://www.devtutorial.io/how-to-install-lets-encrypt-ssl-in-apache-on-debian-12-p3131.html)
 * [Gnu Linux Brasil](http://www.gnulinuxbrasil.com.br/)
 
 ## [![vader](https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/vader2.gif)](#)
