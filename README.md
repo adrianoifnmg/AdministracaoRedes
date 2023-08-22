@@ -21,11 +21,12 @@
 * Configuração de Redes IPv6
 * Roteamento Estático e Dinâmico
 * Alta Disponibilidade
-* Ferramentas para Acesso Remoto
+* Acesso Remoto e Tunelamento
 * Serviços para Transferência de Arquivos
-* Configuração de Domínios - DNS
+* Configuração de Domínios - DNS & DDNS
 * Noções Básicas de Segurança: Firewall, Proxy e VPNs
 * Configuração de Plataforma WEB (LAMP)
+* Certificados Digitais
 * Cloud Computing e Virtualização
 
 ## :computer: Ambiente
