@@ -47,7 +47,8 @@
 
 ## :link: Links Úteis
 
-* [AWS Academy](https://www.awsacademy.com/vforcesite/LMS_Login) 
+* [AWS Academy](https://www.awsacademy.com/vforcesite/LMS_Login)
+* [Minicurso Endereçamento IP](https://youtube.com/playlist?list=PLwSufV429Sn2YHX71aVXeQYwHHTNhL7-b&si=gjS7J9JJKRbDn2q9)
 * [Linux Mint](https://linuxmint.com/)
 * [Kathará](https://www.kathara.org/)
 * [Network Academy](https://www.networkacademy.io/)
