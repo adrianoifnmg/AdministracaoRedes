@@ -8,9 +8,9 @@
 )](https://calendar.google.com/calendar/embed?src=skh77aiiaegfepe1ebho33in7g@group.calendar.google.com&src=hhtmsj9epvmqsdpn27sfolp688@group.calendar.google.com&ctz=America%2FSao_Paulo) [![image](https://img.shields.io/badge/Links_Úteis-d88200?style=for-the-badge&logo=SitePoint&logoColor=white
 )](#link-links-úteis)
 
-> **Objetivo Geral:** Aplicar o conhecimento teórico adquirido na disciplina de Redes de Computadores na implantação, configuração e manutenção de redes de computadores, servidores e demais serviços básicos para administração da rede.
+> **Objetivo Geral:** Aplicar o conhecimento teórico adquirido na disciplina de Redes de Computadores para implantação, configuração e administração de redes, servidores, roteadores, demais dispositivos e serviços básicos.
 
-> **Objetivos Específicos:** Capacitar o discente para realizar a instalação, configuração e gerenciamento de equipamentos de rede, tais como: máquinas clientes, switches, roteadores e servidores de rede; Configurar servidores e serviços básicos utilizados nas Redes de Computadores e Internet; Conhecer e aplicar técnicas para alta disponibilidade de serviços e manutenção da segurança da rede.
+> **Objetivos Específicos:** Capacitar o discente para realizar a instalação, configuração e gerenciamento de equipamentos de rede, tais como: dispositivos de acesso, switches, roteadores e servidores de rede; Configurar servidores e serviços básicos utilizados nas Redes de Computadores e Internet; Conhecer e aplicar técnicas para alta disponibilidade de serviços e manutenção da segurança da rede.
 
 <p align="center"><a href="#"><img src="https://github.com/adrianoifnmg/adrianoifnmg/blob/main/icons/cloud1.png"></a></p>
 
