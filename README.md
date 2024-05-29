@@ -25,7 +25,7 @@
 * Serviços para Transferência de Arquivos
 * Configuração de Domínios - DNS & DDNS
 * Noções Básicas de Segurança: Firewall, Proxy e VPNs
-* Configuração de Plataforma WEB 
+* Configuração de Plataforma WEB (LAMP/LEMP Stack)
 * Certificados Digitais
 * Cloud Computing e Virtualização
 
