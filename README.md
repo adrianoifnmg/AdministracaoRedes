@@ -52,6 +52,7 @@
 * [Kathará](https://www.kathara.org/)
 * [Network Academy](https://www.networkacademy.io/)
 * [Minicurso Endereçamento IP](https://youtube.com/playlist?list=PLwSufV429Sn2YHX71aVXeQYwHHTNhL7-b&si=gjS7J9JJKRbDn2q9)
+* [AS's e a Infraestrutura da Internet](https://www.dropbox.com/scl/fi/lb2tffx3eytrxwi9f69qx/AS-e-Infraestrutura-da-Internet.pdf?rlkey=1fd93ypy6o2dzza2h8q64kzih&st=bbzbko9j&dl=0) 
 * [Binary Game](https://learningcontent.cisco.com/games/binary/index.html)
 * [Binary Bonanza](https://games.penjee.com/binary-bonanza/)
 * [IP Info](https://ipinfo.io/)
