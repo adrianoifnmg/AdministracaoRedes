@@ -35,9 +35,10 @@
 
 ## :memo: Avaliação
 
+* Apresentação Individual - 10 Pontos
 * Prova 1 - 30 Pontos
 * Prova 2 - 30 Pontos
-* Laboratórios Práticos - 40 Pontos
+* Laboratórios Práticos - 30 Pontos
 
 ## :books: Bibliografia
 
