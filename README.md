@@ -38,7 +38,8 @@
 * Apresentação Individual - 10 Pontos
 * Prova 1 - 30 Pontos
 * Prova 2 - 30 Pontos
-* Laboratórios Práticos - 30 Pontos
+* Laboratórios Práticos - 4*05 Pontos
+* Trabalho Final - 10 Pontos
 
 ## :books: Bibliografia
 
